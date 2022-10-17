@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background: var(--gray-500);
+  border: 1px solid var(--gray-700);
+  color: var(--gray-100);
+  transition: border 0.2s;
+}
+
+.container::placeholder {
+  color: var(--gray-300);
+}
+
+.container:focus {
+  outline: 0;
+  border-color: var(--purple-dark);
+}

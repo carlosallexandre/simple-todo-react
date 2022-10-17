@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.counter {
+  /* Counter */
+  margin-left: 0.5rem;
+  padding: 2px 8px;
+  min-width: 25px;
+
+  background: var(--gray-400);
+  border-radius: 999px;
+
+  font-weight: bold;
+  font-size: 0.75rem;
+  line-height: 1.25;
+  color: var(--gray-200);
+}

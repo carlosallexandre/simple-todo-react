@@ -1,0 +1,29 @@
+.header {
+  min-height: 200px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: var(--gray-700);
+}
+
+.container {
+  max-width: 46.5rem;
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
+  margin: 0 auto;
+}
+
+.form {
+  margin-top: -1.68rem;
+  margin-bottom: 4rem;
+}
+
+.taskInfo {
+  margin-bottom: 1.25rem;
+}
+
+.taskList {
+  margin-bottom: 1rem;
+}

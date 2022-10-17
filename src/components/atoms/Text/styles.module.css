@@ -1,0 +1,40 @@
+.text {
+  line-height: 1.4;
+  fontweight: 400;
+}
+
+.text-lg {
+  font-size: 1rem;
+}
+
+.text-md {
+  font-size: 0.875rem;
+}
+
+.text-sm {
+  font-size: 0.75rem;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-gray-100 {
+  color: var(--gray-100);
+}
+
+.text-gray-200 {
+  color: var(--gray-200);
+}
+
+.text-gray-300 {
+  color: var(--gray-300);
+}
+
+.text-blue {
+  color: var(--blue);
+}
+
+.text-purple {
+  color: var(--purple);
+}
